@@ -44,12 +44,12 @@
                         </subviews>
                         <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <constraints>
-                            <constraint firstItem="bOq-Is-BMZ" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="6zf-Hr-sSs"/>
-                            <constraint firstItem="xsE-XV-Jin" firstAttribute="top" secondItem="bOq-Is-BMZ" secondAttribute="bottom" constant="10" id="Abw-BX-VDR"/>
-                            <constraint firstItem="a6D-1l-2eh" firstAttribute="centerX" secondItem="xsE-XV-Jin" secondAttribute="centerX" id="d2F-Hb-aTo"/>
-                            <constraint firstItem="bOq-Is-BMZ" firstAttribute="top" secondItem="y3c-jy-aDJ" secondAttribute="bottom" constant="20" id="kGv-dQ-vDy"/>
-                            <constraint firstItem="xsE-XV-Jin" firstAttribute="centerX" secondItem="bOq-Is-BMZ" secondAttribute="centerX" id="uIC-YI-ZWj"/>
-                            <constraint firstItem="a6D-1l-2eh" firstAttribute="top" secondItem="xsE-XV-Jin" secondAttribute="bottom" constant="10" id="zJZ-tC-DVB"/>
+                            <constraint firstItem="bOq-Is-BMZ" firstAttribute="top" secondItem="y3c-jy-aDJ" secondAttribute="bottom" constant="20" id="0oA-yP-df7"/>
+                            <constraint firstItem="bOq-Is-BMZ" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="Ovh-Ly-OwR"/>
+                            <constraint firstItem="a6D-1l-2eh" firstAttribute="centerX" secondItem="xsE-XV-Jin" secondAttribute="centerX" id="Yuh-jl-Pgf"/>
+                            <constraint firstItem="xsE-XV-Jin" firstAttribute="top" secondItem="bOq-Is-BMZ" secondAttribute="bottom" constant="10" id="b7r-J3-HE7"/>
+                            <constraint firstItem="a6D-1l-2eh" firstAttribute="top" secondItem="xsE-XV-Jin" secondAttribute="bottom" constant="10" id="etK-SQ-XWG"/>
+                            <constraint firstItem="xsE-XV-Jin" firstAttribute="centerX" secondItem="bOq-Is-BMZ" secondAttribute="centerX" id="yfj-Sk-ZvT"/>
                         </constraints>
                     </view>
                     <connections>
@@ -58,6 +58,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
+            <point key="canvasLocation" x="-4" y="30"/>
         </scene>
     </scenes>
 </document>
